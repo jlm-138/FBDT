@@ -1,1 +1,2 @@
-# FBDT: Fuzzy belief decision tree-based classification
+# FBDT
+Fuzzy belief decision tree-based classification
